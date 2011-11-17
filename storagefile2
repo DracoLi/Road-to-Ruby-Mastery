@@ -1,7 +1,13 @@
-{:people[	o:Person	:	@agei0:@gender"	male:	@job"	None:
-@name"	Fredo;	;i;"female;	"	None;
-"
-Laurao;	;i0;"	male;	"	None;
-"	Fredo;	;i;"female;	"	None;
-"
-Laura
+{:people[o:Person	:
+@name"	Fred:	@job"	None:	@agei0:@gender"	maleo;	;"
+Laura;"	None;	i;
+"femaleo;	;"	Fred;"	None;	i0;
+"	maleo;	;"
+Laura;"	None;	i;
+"femaleo;	;I"	Fred:EF;I"	None;F;	i0;
+I"	male;Fo;	;I"
+Laura;F;I"	None;F;	i;
+I"female;Fo;	;I"	Fred;F;I"	None;F;	i0;
+I"	male;Fo;	;I"
+Laura;F;I"	None;F;	i;
+I"female;F
